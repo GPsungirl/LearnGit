@@ -14,3 +14,8 @@
 ### git commit -m 'wrote a readme.txt' (把文件提交到仓库)
 
 &&:insertions 插入 eg：1 file changed, 2 insertions(+)提示一个文件改变了，插入了2行
+
+<!-- 4练习 -->
+### git status (仓库当前的状态)
+*** Changes not staged for commit:(修改还未提交。此时还没add更没有commit)此时可以看看改了啥？
+### git diff readme.txt (看看哪里变样了)
