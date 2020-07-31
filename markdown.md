@@ -19,3 +19,4 @@
 ### git status (仓库当前的状态)
 *** Changes not staged for commit:(修改还未提交。此时还没add更没有commit)此时可以看看改了啥？
 ### git diff readme.txt (看看哪里变样了)
+*** Changes to be committed: (将要被提交的文件，说明已经过了add还没有commit)
